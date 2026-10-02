@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alex Castelnovo
+# 👋 Hola, soy Dario Castelnovo
 
 💻 **Desarrollador Web en formación**, enfocado en el desarrollo frontend y la creación de aplicaciones web.
 
