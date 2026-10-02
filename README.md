@@ -26,4 +26,5 @@ También tengo experiencia trabajando con **APIs, bases de datos, Git/GitHub y d
 * Construyendo proyectos para mi portfolio
 * Buscando oportunidades laborales en el área de desarrollo de software
 
-📫 **Contacto:** [LinkedIn](TU_LINKEDIN) · [Portfolio](TU_PORTFOLIO)
+📫 **Contacto:** [LinkedIn]((https://www.linkedin.com/in/castelnovoda)) [Mail]((castelnovoda@gmail.com))
+                
